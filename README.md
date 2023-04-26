@@ -12,3 +12,5 @@ Example:
 All work here is only for cs305 and nothing more
 
 Aiden was here this is a pull request
+
+GNU general licence was used for this project
